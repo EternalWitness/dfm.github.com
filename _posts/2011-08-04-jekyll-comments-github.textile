@@ -51,7 +51,11 @@ var comments = [
          'comment': "Given the relative difficulty of making comments like this, I'm\
                     pretty sure that this will be the most spam-free blog in the blogosphere.  It may\
                     also be the most <em>comment</em>-free blog as well, but that's O.K.!  Nice work."},
-]
+    {'github_user': 'EternalWitness',
+           'date': new Date(2011,12,19),
+         'comment': "This is an interesting way to do comments on Jekyll, but you're right, this is 
+rather difficult for most people. I am looking for ways to implement comments on our Jekyll blog, but I'll probably 
+end up using Disqus. The other thing to consider is that anyone can create a fork and edit other people's comments..."},]
 </script><!-- ADD YOUR COMMENT HERE -->==
 
 
